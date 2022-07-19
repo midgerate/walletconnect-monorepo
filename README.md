@@ -1,3 +1,8 @@
+# Notice
+
+This repo is a patched version of Walletconnect 1.x that allows EIP712 signedTypedData_v4 work with metamask mobile. 
+Waiting for https://github.com/WalletConnect/walletconnect-monorepo/pull/1191 to be merged. 
+
 # WalletConnect v1.x.x
 
 Open protocol for connecting Wallets to Dapps - https://walletconnect.org
